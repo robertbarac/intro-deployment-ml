@@ -1,5 +1,8 @@
 # Prueba Técnica InBev
 
+## Architecture
+
+
 ## Collaboration
 
 Here is the collaboration part of the technical exam:
@@ -21,7 +24,11 @@ Steps:
 - create the folders: ./api/, ./api/app/
 - create the files: ./api/main.py ./api/app/utils.py ./api/app/models.py and ./api/app/views.py
 
+## Testing with SonarCloud
+It was not possible, SonarCloud is paid, and the free plan is not avaiable to choose.
+
 ## About Docker
 - build the docker container with: DOCKER_BUILDKIT=1 docker build . -t model-api-inveb:v1
 - Run the container: docker run -p 8000:8000 model-api-inbev:v1
 - Stop the container: docker stop $(docker ps -a -q)
+
