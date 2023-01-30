@@ -7,11 +7,12 @@
 
 Here is the collaboration part of the technical exam:
 
-[url=https://postimg.cc/FYJBj2zj][img]https://i.postimg.cc/FYJBj2zj/Captura.png[/img][/url]
-
-[url=https://postimg.cc/FYJBj2zj][img]https://i.postimg.cc/FYJBj2zj/Captura.png[/img][/url]
+![](https://github.com/robertbarac/intro-deployment-ml/blob/main/Captura.PNG)
+![](https://github.com/robertbarac/intro-deployment-ml/blob/main/Captura2.PNG)
 
 ## MLModelDeployment
+Here is my implementation of my technical test:
+![](https://github.com/robertbarac/intro-deployment-ml/blob/main/Captura3.PNG)
 
 Steps:
 -create a venv: pyhon3-m venv env OR virtualenv venv
