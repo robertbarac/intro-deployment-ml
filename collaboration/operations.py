@@ -1,5 +1,5 @@
-class Basicoperations:
-    def __init__(self) -> None:
+class BasicOperations:
+    def __init__(self, a, b) -> None:
         self.__a = a
         self.__b = b
     
