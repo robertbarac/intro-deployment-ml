@@ -4,6 +4,7 @@
 
 Here is the collaboration part of the technical exam:
 [url=https://postimg.cc/FYJBj2zj][img]https://i.postimg.cc/FYJBj2zj/Captura.png[/img][/url]
+
 [url=https://postimg.cc/FYJBj2zj][img]https://i.postimg.cc/FYJBj2zj/Captura.png[/img][/url]
 
 ## MLModelDeployment
